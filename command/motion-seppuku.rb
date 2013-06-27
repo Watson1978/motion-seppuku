@@ -1,5 +1,3 @@
-require 'optparse'
-
 module Motion; module Project
   class SeppukuCommand < Command
     self.name = 'seppuku'
