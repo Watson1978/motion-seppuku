@@ -11,7 +11,6 @@ Gem::Specification.new do |spec|
   spec.homepage      = ""
   spec.license       = ""
   spec.extensions    = ['ext/extconf.rb'] # Command-Line Plugin Installer
-  spec.add_dependency 'yard'
 
   files = []
   files << 'README.md'
